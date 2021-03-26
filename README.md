@@ -6,10 +6,10 @@ In this project, I’ll build a simple website for a fictional arts and crafts s
 
 ### Technologies/Languages
 
-*HTML
-*CSS
+* HTML
+* CSS
 
 #### Other information
 
-*Project status: In progress
-*Design Spec: Please see Specs file 
+* Project status: In progress
+* Design Spec: Please see Specs file 
