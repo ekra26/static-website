@@ -11,5 +11,5 @@ In this project, I’ll build a simple website for a fictional arts and crafts s
 
 #### Other information
 
-* Project status: In progress
+* Project status: Done
 * Design Spec: Please see Specs file 
